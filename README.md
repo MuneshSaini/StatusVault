@@ -24,13 +24,9 @@ Experience a range of powerful features designed to enhance your Status Saver ap
   - **And More:** Explore additional features and functionalities to elevate the user experience.
 
 Discover a comprehensive toolkit that enables efficient status management and an enriched user journey.
-## Screenshots!
+## Screenshots -->
+#### Night Mode
 ![WhatsApp Image 2024-06-08 at 20 37 02_efc80f29](https://github.com/MuneshSaini/StatusVault/assets/136725215/cb5d4c7d-3ced-44f6-8674-89637690e4c8)
 
 #### Light Mode
 [WhatsApp Image 2024-04-20 at 23 40 42_29419d94](https://github.com/MuneshSaini/StatusVault/assets/136725215/af43bb83-cbfb-4e45-9dba-02b1c6742e26)
-![WhatsApp Image 2024-04-20 at 23 40 43_870e219e](https://github.com/MuneshSaini/StatusVault/assets/136725215/771ce219-94dc-48f7-a111-189835e12f3a)
-#### Night Mode
-![WhatsApp Image 2024-04-20 at 23 40 44_3d43bc6f](https://github.com/MuneshSaini/StatusVault/assets/136725215/0695faae-993c-4796-9922-310ba066e20d)
-
-
