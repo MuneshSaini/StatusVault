@@ -27,6 +27,4 @@ Discover a comprehensive toolkit that enables efficient status management and an
 ## Screenshots -->
 #### Night Mode
 ![WhatsApp Image 2024-06-08 at 20 37 02_efc80f29](https://github.com/MuneshSaini/StatusVault/assets/136725215/cb5d4c7d-3ced-44f6-8674-89637690e4c8)
-
-#### Light Mode
-[WhatsApp Image 2024-04-20 at 23 40 42_29419d94](https://github.com/MuneshSaini/StatusVault/assets/136725215/af43bb83-cbfb-4e45-9dba-02b1c6742e26)
+![WhatsApp Image 2024-06-08 at 20 37 01_31b11ae5](https://github.com/MuneshSaini/StatusVault/assets/136725215/97ce0f98-1d0c-400f-8c7c-4e881654272c)
